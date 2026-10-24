@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.venv/
+venv/
+cache/
+extracted_image/
+.pytest_cache/
+.mypy_cache/
+*.log
