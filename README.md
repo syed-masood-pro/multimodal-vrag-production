@@ -1,4 +1,4 @@
-# Multimodal VRAG (Production Grade)
+# Multimodal Visual-RAG
 
 Production-ready multimodal Retrieval-Augmented Generation over a PDF, with:
 
